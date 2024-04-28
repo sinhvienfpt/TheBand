@@ -1,0 +1,9 @@
+Những thành phần thường gặp trên giao diện webside:
+1. Đầu trang (Header)
+2. Điều hướng (Navigation)
+3. Breadcrumb
+4. Sidebar
+5. Slider
+6. Chân trang (Footer)
+7. Content
+8. Banner
