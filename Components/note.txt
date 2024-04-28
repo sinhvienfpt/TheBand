@@ -7,3 +7,14 @@ Những thành phần thường gặp trên giao diện webside:
 6. Chân trang (Footer)
 7. Content
 8. Banner
+
+
+This website :
+    1.Header
+    2.Slider
+    3.Content
+        3.1. About
+        3.2. Tour
+        3.3. Contact 
+        3.4. Image
+    4. Footer
