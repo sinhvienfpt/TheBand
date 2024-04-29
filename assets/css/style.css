@@ -1,6 +1,53 @@
-/* Reset CSS */
 * {
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
+}
+
+html {
+    font-family: "Lato", sans-serif;
+}
+
+#main {
+    
+}
+
+#header {
+    height: 46.5px;
+    background-color: #000;
+}
+
+#nav {
+
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 46.5px;
+    padding: 0px 24px;
+    display: inline-block;
+}
+
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+}
+#nav .subnav {
+    display: none;
+}
+#slider {
+
+}
+
+#content {
+
+}
+
+#footer {
+
 }
